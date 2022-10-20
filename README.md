@@ -1,13 +1,16 @@
 # What-Makes-a-Udemy-Top-selling-Course
 
 Renata-Halim-What-Makes-a-Udemy-Top-selling-Course-Project
+
 BA775 Subject Of Questrom School Of Business, Boston University, Done under Prof. Mohammad Soltanieh Ha, as What Makes a Udemy Top-selling Course Dated  Oct 20 2022.
+
 Contributors to this project as teams members are listed here:
-Harshil Thakkar
-Jinisha Kande
-Ryan Li
-Howard Chang
-Renata Halim
+1. Harshil Thakkar
+2. Jinisha Kande
+3. Ryan Li
+4. Howard Chang
+5. Renata Halim
+
 Citations: 
 - “$67.18 Billion Massive Open Online Course (MOOC) Market - Global Forecast to 2026 - Researchandmarkets.com.” Business Wire, March 15, 2021. https://www.businesswire.com/news/home/20210315005619/en/67.18-Billion-Massive-Open-Online-Course-MOOC-Market---Global-Forecast-to-2026---ResearchAndMarkets.com.
 - “Online Courses - Learn Anything, on Your Schedule.” Udemy. Accessed October 14, 2022. https://www.udemy.com/.
